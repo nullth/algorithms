@@ -23,3 +23,4 @@
 | 번호 | 문제 | 코드 |
 | :---: | :---: | :---: |
 | 1 | [최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) | [MySQL](sql/01_최댓값구하기_mysql.sql), [Oracle](sql/01_최댓값구하기_oracle.sql) |
+| 2 | [없어진 기록 찾기]() | [MySQL](sql/02_없어진기록찾기_mysql.sql) |

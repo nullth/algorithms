@@ -1,6 +1,6 @@
 # daliy-algorithm
-¾Ë°í¸®Áò ¹®Á¦Ç®ÀÌ
+ì•Œê³ ë¦¬ì¦˜ ë¬¸ì œí’€ì´
 
 ==================
-- [programmers](https://programmers.co.kr/) µî ´Ù¾çÇÑ »çÀÌÆ®ÀÇ ¾Ë°í¸®Áò ¹®Á¦ Ç®ÀÌ
-- Java, JavaScript, C#, Kotiln µî ´Ù¾çÇÑ ¾ğ¾î·Î ¹®Á¦ Ç®ÀÌ
+- [programmers](https://programmers.co.kr/) ë“± ë‹¤ì–‘í•œ ì‚¬ì´íŠ¸ì˜ ì•Œê³ ë¦¬ì¦˜ ë¬¸ì œ í’€ì´
+- Java, JavaScript, C#, Kotiln ë“± ë‹¤ì–‘í•œ ì–¸ì–´ë¡œ ë¬¸ì œ í’€ì´
