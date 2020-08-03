@@ -24,4 +24,5 @@
 | :---: | :---: | :---: |
 | 1 | [최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) | [MySQL](sql/01_최댓값구하기_mysql.sql), [Oracle](sql/01_최댓값구하기_oracle.sql) |
 | 2 | [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034) | [MySQL](sql/02_모든레코드조회하기_mysql.sql) |
-| 3 | [없어진 기록 찾기]() | [MySQL](sql/02_없어진기록찾기_mysql.sql) |
+| 3 | [아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036) | [MySQL](sql/03_아픈동물찾기_mysql.sql) |
+| 4 | [없어진 기록 찾기]() | [MySQL](sql/02_없어진기록찾기_mysql.sql) |
