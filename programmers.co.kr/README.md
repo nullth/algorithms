@@ -8,7 +8,7 @@
 | 번호 | 문제 | 코드 |
 | :---: | :---: | :---: |
 | 1 | [완주하지 못한 선수들](https://programmers.co.kr/learn/courses/30/lessons/42576) | [java](level1/01_완주하지못한선수들.java) |
-| 2 | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | [java](level1/02_크레인인형뽑기게임.java) |
+| 2 | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | [java](level1/02_크레인인형뽑기게임.java), [javascript](level1/02_크레인인형뽑기게임.js) |
 | 3 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [java](level1/03_모의고사.java) |
 
 ## Level2
